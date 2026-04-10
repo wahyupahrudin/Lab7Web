@@ -1,0 +1,58 @@
+# Praktikum 1: PHP Framework CodeIgniter 4
+
+**Nama:** Wahyu Pahrudin  
+**NIM:** (312410058)  
+**Kelas:** (I243B)
+
+## Tujuan Praktikum
+- Memahami konsep dasar Framework
+- Memahami konsep MVC
+- Membuat program sederhana menggunakan CodeIgniter 4
+
+## Langkah-langkah Praktikum
+
+### 1. Instalasi CodeIgniter 4
+![Instalasi](screenshots/instalasi.png)
+
+### 2. Konfigurasi .env (Mode Debugging)
+Aktifkan `CI_ENVIRONMENT = development`
+![.env](screenshots/env.png)
+
+### 3. Routing (Routes.php)
+Menambahkan route untuk `/about`, `/contact`, `/artikel`, `/faqs`
+![Routes](screenshots/routes.png)
+
+### 4. Membuat Controller Page
+![Controller](screenshots/page_controller.png)
+
+### 5. Membuat View dengan Layout
+- `header.php` dan `footer.php` di `app/Views/template/`
+- File view untuk setiap halaman (`home.php`, `about.php`, dll.)
+
+![Template](screenshots/template.png)
+
+### 6. Menambahkan CSS (style.css)
+![CSS](screenshots/style_css.png)
+
+### 7. Hasil Akhir
+Semua halaman menampilkan layout yang sama dengan navigasi, sidebar, dan footer.
+
+#### Halaman Home
+![Home](screenshots/home.png)
+
+#### Halaman About
+![About](screenshots/about.png)
+
+#### Halaman Kontak
+![Kontak](screenshots/contact.png)
+
+#### Halaman Artikel
+
+
+#### Halaman FAQ
+
+## Kesimpulan
+Praktikum berhasil. Semua menu navigasi berfungsi dan tampilan konsisten menggunakan layout template.
+
+## URL Repository
+[https://github.com/wahyupahrudin/Lab7Web](https://github.com/wahyupahrudin/Lab7Web)
