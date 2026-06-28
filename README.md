@@ -41,13 +41,22 @@ text
 http://localhost:8080
 
 No	Nama Halaman	URL	Deskripsi	Nama File
+
 1	Home	/	Halaman utama	home.png
+
 2	About	/about	Halaman tentang	about.png
+
 3	Kontak	/contact	Halaman kontak	contact.png
+
 4	FAQ	/faqs	Halaman tanya jawab	faqs.png
+
 5	Daftar Artikel	/artikel	Daftar artikel dari database	artikel.png
+
 6	Detail Artikel	/artikel/artikel-pertama	Detail artikel	detail_artikel.png
+
 7	Admin - Daftar Artikel	/admin/artikel	Admin panel daftar artikel	admin_index.png
+
 8	Admin - Tambah Artikel	/admin/artikel/add	Form tambah artikel	form_add.png
+
 9	Admin - Edit Artikel	/admin/artikel/edit/1	Form edit artikel	form_edit.png
 
