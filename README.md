@@ -4,6 +4,8 @@
 <img width="706" height="615" alt="image" src="https://github.com/user-attachments/assets/f7e144d5-c16b-4b8f-bc4d-b7a522d9ea73" />
 <img width="747" height="654" alt="image" src="https://github.com/user-attachments/assets/f1aa3fa3-55ac-4dbe-a136-260a5f9dbb9b" />
 <img width="785" height="734" alt="image" src="https://github.com/user-attachments/assets/e8fcede3-1b1c-4f01-adf3-a21f251c3203" />
+
+
 📌 Cara Menjalankan Aplikasi
 Opsi 1: Menggunakan Apache (XAMPP) - PALING MUDAH
 Langkah 1: Nyalakan Apache & MySQL
